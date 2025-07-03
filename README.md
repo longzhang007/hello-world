@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-I love my baby.
+The world is a huge makeshift stage! Who can let me out, please?
